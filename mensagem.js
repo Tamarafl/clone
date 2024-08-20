@@ -1,1 +1,1 @@
-let nome = Jesus é fiel
+let nome = Jesus
